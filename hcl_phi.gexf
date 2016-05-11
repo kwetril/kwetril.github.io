@@ -11,7 +11,7 @@
       </attribute>
     </attributes>
     <nodes>
-      <node id="500" label="TOPIC_1">
+      <node id="500" label="Elections in Europe">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
@@ -19,7 +19,7 @@
         <viz:position x="3075.0903" y="31.953411"></viz:position>
         <viz:color r="0" g="223" b="255"></viz:color>
       </node>
-      <node id="501" label="TOPIC_2">
+      <node id="501" label="Human rights">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
@@ -27,7 +27,7 @@
         <viz:position x="2980.84" y="778.023"></viz:position>
         <viz:color r="168" g="208" b="127"></viz:color>
       </node>
-      <node id="502" label="TOPIC_3">
+      <node id="502" label="Europe and NATO">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
         </attvalues>
@@ -35,7 +35,7 @@
         <viz:position x="2704.0105" y="1477.2144"></viz:position>
         <viz:color r="249" g="164" b="0"></viz:color>
       </node>
-      <node id="503" label="TOPIC_4">
+      <node id="503" label="Obama">
         <attvalues>
           <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
@@ -43,7 +43,7 @@
         <viz:position x="2261.9963" y="2085.5947"></viz:position>
         <viz:color r="28" g="126" b="17"></viz:color>
       </node>
-      <node id="504" label="TOPIC_5">
+      <node id="504" label="Near East region">
         <attvalues>
           <attvalue for="modularity_class" value="3"></attvalue>
         </attvalues>
@@ -51,7 +51,7 @@
         <viz:position x="1682.5708" y="2564.9373"></viz:position>
         <viz:color r="255" g="123" b="255"></viz:color>
       </node>
-      <node id="505" label="TOPIC_6">
+      <node id="505" label="China">
         <attvalues>
           <attvalue for="modularity_class" value="4"></attvalue>
         </attvalues>
@@ -59,7 +59,7 @@
         <viz:position x="1002.14154" y="2885.123"></viz:position>
         <viz:color r="118" g="95" b="0"></viz:color>
       </node>
-      <node id="506" label="TOPIC_7">
+      <node id="506" label="General topic 1">
         <attvalues>
           <attvalue for="modularity_class" value="5"></attvalue>
         </attvalues>
@@ -67,7 +67,7 @@
         <viz:position x="263.4621" y="3026.0337"></viz:position>
         <viz:color r="170" g="191" b="0"></viz:color>
       </node>
-      <node id="507" label="TOPIC_8">
+      <node id="507" label="Lona Valmoro">
         <attvalues>
           <attvalue for="modularity_class" value="6"></attvalue>
         </attvalues>
@@ -75,7 +75,7 @@
         <viz:position x="-487.0534" y="2978.815"></viz:position>
         <viz:color r="255" g="120" b="5"></viz:color>
       </node>
-      <node id="508" label="TOPIC_9">
+      <node id="508" label="Global economy">
         <attvalues>
           <attvalue for="modularity_class" value="7"></attvalue>
         </attvalues>
@@ -83,7 +83,7 @@
         <viz:position x="-1202.2473" y="2746.4346"></viz:position>
         <viz:color r="0" g="212" b="213"></viz:color>
       </node>
-      <node id="509" label="TOPIC_10">
+      <node id="509" label="Libya and Egypt">
         <attvalues>
           <attvalue for="modularity_class" value="8"></attvalue>
         </attvalues>
@@ -91,7 +91,7 @@
         <viz:position x="-1837.1816" y="2343.4932"></viz:position>
         <viz:color r="164" g="50" b="73"></viz:color>
       </node>
-      <node id="510" label="TOPIC_11">
+      <node id="510" label="Brazil">
         <attvalues>
           <attvalue for="modularity_class" value="9"></attvalue>
         </attvalues>
@@ -99,7 +99,7 @@
         <viz:position x="-2351.9604" y="1795.3092"></viz:position>
         <viz:color r="74" g="68" b="52"></viz:color>
       </node>
-      <node id="511" label="TOPIC_12">
+      <node id="511" label="Iran nuclear program">
         <attvalues>
           <attvalue for="modularity_class" value="10"></attvalue>
         </attvalues>
@@ -107,7 +107,7 @@
         <viz:position x="-2714.239" y="1136.327"></viz:position>
         <viz:color r="33" g="223" b="0"></viz:color>
       </node>
-      <node id="512" label="TOPIC_13">
+      <node id="512" label="American government">
         <attvalues>
           <attvalue for="modularity_class" value="11"></attvalue>
         </attvalues>
@@ -115,7 +115,7 @@
         <viz:position x="-2901.2537" y="407.95312"></viz:position>
         <viz:color r="28" g="126" b="17"></viz:color>
       </node>
-      <node id="513" label="TOPIC_14">
+      <node id="513" label="Greetings and thanks">
         <attvalues>
           <attvalue for="modularity_class" value="12"></attvalue>
         </attvalues>
@@ -123,7 +123,7 @@
         <viz:position x="-2901.2537" y="-344.0463"></viz:position>
         <viz:color r="0" g="192" b="255"></viz:color>
       </node>
-      <node id="514" label="TOPIC_15">
+      <node id="514" label="War in Libya">
         <attvalues>
           <attvalue for="modularity_class" value="13"></attvalue>
         </attvalues>
@@ -131,7 +131,7 @@
         <viz:position x="-2714.239" y="-1072.4203"></viz:position>
         <viz:color r="0" g="102" b="144"></viz:color>
       </node>
-      <node id="515" label="TOPIC_16">
+      <node id="515" label="Earthquake in Haiti">
         <attvalues>
           <attvalue for="modularity_class" value="14"></attvalue>
         </attvalues>
@@ -139,7 +139,7 @@
         <viz:position x="-2351.9604" y="-1731.4025"></viz:position>
         <viz:color r="255" g="104" b="190"></viz:color>
       </node>
-      <node id="516" label="TOPIC_17">
+      <node id="516" label="Conferences and visits">
         <attvalues>
           <attvalue for="modularity_class" value="15"></attvalue>
         </attvalues>
@@ -147,7 +147,7 @@
         <viz:position x="-1837.1816" y="-2279.5864"></viz:position>
         <viz:color r="0" g="213" b="129"></viz:color>
       </node>
-      <node id="517" label="TOPIC_18">
+      <node id="517" label="United Kingdom">
         <attvalues>
           <attvalue for="modularity_class" value="16"></attvalue>
         </attvalues>
@@ -155,7 +155,7 @@
         <viz:position x="-1202.2473" y="-2682.5278"></viz:position>
         <viz:color r="176" g="165" b="255"></viz:color>
       </node>
-      <node id="518" label="TOPIC_19">
+      <node id="518" label="North Korea">
         <attvalues>
           <attvalue for="modularity_class" value="17"></attvalue>
         </attvalues>
@@ -163,7 +163,7 @@
         <viz:position x="-487.0534" y="-2914.9082"></viz:position>
         <viz:color r="0" g="114" b="96"></viz:color>
       </node>
-      <node id="519" label="TOPIC_20">
+      <node id="519" label="Israel and Palestina">
         <attvalues>
           <attvalue for="modularity_class" value="18"></attvalue>
         </attvalues>
@@ -171,7 +171,7 @@
         <viz:position x="263.4621" y="-2962.127"></viz:position>
         <viz:color r="224" g="181" b="204"></viz:color>
       </node>
-      <node id="520" label="TOPIC_21">
+      <node id="520" label="Health care">
         <attvalues>
           <attvalue for="modularity_class" value="19"></attvalue>
         </attvalues>
@@ -179,7 +179,7 @@
         <viz:position x="1002.14154" y="-2821.2163"></viz:position>
         <viz:color r="255" g="177" b="122"></viz:color>
       </node>
-      <node id="521" label="TOPIC_22">
+      <node id="521" label="General topic 2">
         <attvalues>
           <attvalue for="modularity_class" value="20"></attvalue>
         </attvalues>
@@ -187,7 +187,7 @@
         <viz:position x="1682.5708" y="-2501.0305"></viz:position>
         <viz:color r="255" g="94" b="113"></viz:color>
       </node>
-      <node id="522" label="TOPIC_23">
+      <node id="522" label="Families and Children">
         <attvalues>
           <attvalue for="modularity_class" value="21"></attvalue>
         </attvalues>
@@ -195,7 +195,7 @@
         <viz:position x="2261.9963" y="-2021.688"></viz:position>
         <viz:color r="122" g="76" b="143"></viz:color>
       </node>
-      <node id="523" label="TOPIC_24">
+      <node id="523" label="General topic 3">
         <attvalues>
           <attvalue for="modularity_class" value="22"></attvalue>
         </attvalues>
@@ -203,7 +203,7 @@
         <viz:position x="2704.0105" y="-1413.3076"></viz:position>
         <viz:color r="212" g="82" b="20"></viz:color>
       </node>
-      <node id="524" label="TOPIC_25">
+      <node id="524" label="Turkey-Armenia agreement">
         <attvalues>
           <attvalue for="modularity_class" value="23"></attvalue>
         </attvalues>
